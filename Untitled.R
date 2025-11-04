@@ -1,2 +1,2 @@
 
-stars <-data("diamonds")
+print("hello github")
